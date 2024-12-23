@@ -29,6 +29,10 @@ h3 {
     color: hsl(332, 51%, 32%);
 }
 
+span {
+    font-weight: 700;
+}
+
 li::marker {
     color: hsl(14, 45%, 36%);
 }
